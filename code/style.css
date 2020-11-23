@@ -1,0 +1,16 @@
+body
+{
+	background-image:url('image1.jpeg');
+	background-size:auto;
+	background-position:center;
+}
+.login-box
+{
+	max-width: 700px;
+	float: none;
+	margin: 150px auto;
+}
+.form-control
+{
+	background-color:white !important;
+}
